@@ -1,0 +1,8 @@
+git clone https://github.com/kolheyash15/wizer_.git
+cd wizer_
+ls
+chmod +x wizer1.sh
+./wizer1.sh 
+
+./wizer1.sh website random port no times to connection
+./wiser1.sh example.com 80 200
